@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ca.qc.johnabbott.cs616.notesapplication.ui.editor.NotesEditActivity">
+    <item
+        android:id="@+id/share_MenuItem"
+        android:title="Share"
+        app:showAsAction="always" />
+</menu>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/edit_MenuItem"
+        android:title="@string/Edit"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/reminder_MenuItem"
+        android:title="@string/reminder_"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/trash_MenuItem"
+        android:title="@string/trash"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/close_MenuItem"
+        android:title="@string/close"
+        app:showAsAction="always" />
+</menu>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_ConstraintLayout"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#5F09A6"
+    tools:context=".ui.editor.NotesEditFragment"
+    tools:showIn="@layout/activity_notes_app">
+
+    <EditText
+        android:id="@+id/title_EditText"
+        android:layout_width="0dp"
+        android:layout_height="42dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:backgroundTint="#2C2B2B"
+        android:ems="10"
+        android:hint="@string/Title"
+        android:inputType="textPersonName"
+        android:padding="2dp"
+        android:singleLine="true"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/body_EditText"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="8dp"
+        android:ems="10"
+        android:gravity="start|top"
+        android:hint="@string/Body"
+        android:inputType="textMultiLine"
+        android:padding="2dp"
+        app:layout_constraintBottom_toTopOf="@+id/popUp_linearLayout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.727"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/title_EditText" />
+
+    <LinearLayout
+        android:id="@+id/popUp_linearLayout"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="#2C2B2B"
+        android:orientation="vertical"
+        android:visibility="gone"
+        app:layout_constraintBottom_toTopOf="@+id/footer_LinearLayout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <TextView
+            android:id="@+id/reminder_TextView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:padding="5dp"
+            android:text="Add Reminder"
+            android:textSize="20sp" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout4"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:orientation="horizontal">
+
+            <view
+                android:id="@+id/color1_CircleView"
+                class="ca.qc.johnabbott.cs616.notesapplication.ui.util.CircleView"
+                id="@+id/view7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                app:circleColor="#5F09A6" />
+
+            <view
+                android:id="@+id/color2_CircleView"
+                class="ca.qc.johnabbott.cs616.notesapplication.ui.util.CircleView"
+                id="@+id/view8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                app:circleColor="#F79502" />
+
+            <view
+                android:id="@+id/color3_CircleView"
+                class="ca.qc.johnabbott.cs616.notesapplication.ui.util.CircleView"
+                id="@+id/view9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                app:circleColor="#024619" />
+
+            <view
+                android:id="@+id/color4_CircleView"
+                class="ca.qc.johnabbott.cs616.notesapplication.ui.util.CircleView"
+                id="@+id/view10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                app:circleColor="#FF0A1B8D" />
+
+            <view
+                android:id="@+id/color5_CircleView"
+                class="ca.qc.johnabbott.cs616.notesapplication.ui.util.CircleView"
+                id="@+id/view11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                app:circleColor="#F16F6F" />
+
+            <view
+                android:id="@+id/color6_CircleView"
+                class="ca.qc.johnabbott.cs616.notesapplication.ui.util.CircleView"
+                id="@+id/view12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                app:circleColor="#F0DD16" />
+
+            <view
+                android:id="@+id/color7_CircleView"
+                class="ca.qc.johnabbott.cs616.notesapplication.ui.util.CircleView"
+                id="@+id/view13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                app:circleColor="#90D23A" />
+
+            <view
+                android:id="@+id/color8_CircleView"
+                class="ca.qc.johnabbott.cs616.notesapplication.ui.util.CircleView"
+                id="@+id/view14"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                app:circleColor="#00DDFF" />
+
+        </LinearLayout>
+
+        <fragment
+            android:id="@+id/displayUsers_Fragment"
+            android:name="ca.qc.johnabbott.cs616.notesapplication.ui.util.DisplayUsersFragment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/footer_LinearLayout"
+        android:layout_width="0dp"
+        android:layout_height="32dp"
+        android:layout_gravity="right"
+        android:background="#2C2B2B"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <ImageButton
+            android:id="@+id/revert_Button"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="left"
+            android:src="@android:drawable/ic_menu_revert" />
+
+        <Switch
+            android:id="@+id/showOptions_switch"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="right"
+            android:layout_weight="100"
+            android:fadingEdge="horizontal|vertical"
+            android:thumbTint="@color/yellow"
+            android:trackTint="@color/yellowGreen" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
