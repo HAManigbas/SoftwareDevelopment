@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "TthFfWlEAPme3awCCLYBFkjKbsyuXS5KaVBERd89AcVcLeh7qC84/ZWjET/l6XzYvBAG7cDCBKABA8WLkEiQsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rs188\\Documents\\Hazel\\Portfolio\\C#\\mobileDevelopment\\ContactsApp\\ContactsApp\\ContactsApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rs188\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rs188\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\rs188\\.nuget\\packages\\sqlite-net-pcl\\1.6.292\\sqlite-net-pcl.1.6.292.nupkg.sha512",
+    "C:\\Users\\rs188\\.nuget\\packages\\sqlitepclraw.bundle_green\\1.1.13\\sqlitepclraw.bundle_green.1.1.13.nupkg.sha512",
+    "C:\\Users\\rs188\\.nuget\\packages\\sqlitepclraw.core\\1.1.13\\sqlitepclraw.core.1.1.13.nupkg.sha512",
+    "C:\\Users\\rs188\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\rs188\\.nuget\\packages\\xamarin.essentials\\1.5.3.1\\xamarin.essentials.1.5.3.1.nupkg.sha512",
+    "C:\\Users\\rs188\\.nuget\\packages\\xamarin.forms\\4.6.0.726\\xamarin.forms.4.6.0.726.nupkg.sha512"
+  ],
+  "logs": []
+}

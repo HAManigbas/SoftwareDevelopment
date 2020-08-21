@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "xm3omOSijDxAE21jHtcT47y8K4sXvvhAfT6gCGAYd9VTP7/W3Ss+x3T7D7ok7QOwHs8g/xAQbVJir7NZTGKIRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rs188\\Documents\\Hazel\\Portfolio\\C#\\mobileDevelopment\\DietTrackerApp\\quiz2.iOS\\quiz2.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rs188\\.nuget\\packages\\sqlite-net-pcl\\1.6.292\\sqlite-net-pcl.1.6.292.nupkg.sha512",
+    "C:\\Users\\rs188\\.nuget\\packages\\sqlitepclraw.bundle_green\\1.1.13\\sqlitepclraw.bundle_green.1.1.13.nupkg.sha512",
+    "C:\\Users\\rs188\\.nuget\\packages\\sqlitepclraw.core\\1.1.13\\sqlitepclraw.core.1.1.13.nupkg.sha512",
+    "C:\\Users\\rs188\\.nuget\\packages\\sqlitepclraw.provider.sqlite3.ios_unified\\1.1.13\\sqlitepclraw.provider.sqlite3.ios_unified.1.1.13.nupkg.sha512",
+    "C:\\Users\\rs188\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\rs188\\.nuget\\packages\\xamarin.essentials\\1.1.0\\xamarin.essentials.1.1.0.nupkg.sha512",
+    "C:\\Users\\rs188\\.nuget\\packages\\xamarin.forms\\4.1.0.555618\\xamarin.forms.4.1.0.555618.nupkg.sha512"
+  ],
+  "logs": []
+}

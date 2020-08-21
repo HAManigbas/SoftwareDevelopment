@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="quiz2.MainPage">
+
+    <StackLayout HorizontalOptions="FillAndExpand" Padding="20" Spacing="10">
+        <!--Search Bar-->
+        <SearchBar Placeholder="Search by Category.."
+                   x:Name="searchBar"
+                   TextChanged="SearchBar_TextChanged"/>
+        
+        <!--App Title-->
+        <Label Text="Diet Tracker" HorizontalOptions="CenterAndExpand"
+               FontSize="Title"/>
+        
+        <!--Entries for Diet-->
+        <Entry Placeholder="Category" HorizontalOptions="FillAndExpand"
+               x:Name="entryCat"
+               MaxLength="50"
+               Text="{Binding Category}"/>
+        <Entry Placeholder="Type" HorizontalOptions="FillAndExpand"
+               x:Name="entryType"
+               MaxLength="50"
+               Text="{Binding Type}"/>
+        <Entry Placeholder="Servings" HorizontalOptions="FillAndExpand"
+               x:Name="entryServings"
+               Keyboard="Numeric"
+               Text="{Binding Servings}"/>
+        
+        <!--Add/Update Button-->
+        <Button Text="Add To List" x:Name="btnAdd"
+                Clicked="BtnAdd_Clicked" IsVisible="True"/>
+        <Button Text="Update Diet" x:Name="btnUpdate" 
+                IsVisible="False" Clicked="BtnUpdate_Clicked"/>
+
+        <!--List of Items added to the Diet Table-->
+        <ListView x:Name="lstDiets"
+                  BackgroundColor="DarkGray"
+                  ItemSelected="LstDiets_ItemSelected">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <ViewCell.ContextActions>
+                            <MenuItem Text="Delete"
+                                      x:Name="DeleteMenuItem"
+                                      IsDestructive="True" 
+                                      CommandParameter="{Binding .}"
+                                      Clicked="DeleteMenuItem_Clicked"/>
+                            <MenuItem Text="Update"
+                                      x:Name="UpdateMenuItem"
+                                      CommandParameter="{Binding .}"
+                                      Clicked="UpdateMenuItem_Clicked"/>
+                        </ViewCell.ContextActions>
+                        <Grid Padding="5" ColumnSpacing="5" RowSpacing="5">
+                            <Label Text="{Binding Category}"
+                                   Grid.Column="0"/>
+                            <Label Text="{Binding Type}"
+                                   Grid.Column="1"/>
+                            <Label Text="{Binding Servings, StringFormat='{0} Serving/s'}"
+                                   Grid.Column="2"/>
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+
+</ContentPage>

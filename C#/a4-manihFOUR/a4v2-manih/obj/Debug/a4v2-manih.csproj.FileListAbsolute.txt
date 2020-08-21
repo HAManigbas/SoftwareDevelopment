@@ -1,0 +1,14 @@
+E:\algorithm design\Assignment_4\a4-manihTWO\a4v2-manih\bin\Debug\a4v2-manih.exe.config
+E:\algorithm design\Assignment_4\a4-manihTWO\a4v2-manih\bin\Debug\a4v2-manih.exe
+E:\algorithm design\Assignment_4\a4-manihTWO\a4v2-manih\bin\Debug\a4v2-manih.pdb
+E:\algorithm design\Assignment_4\a4-manihTWO\a4v2-manih\obj\Debug\a4v2-manih.csprojAssemblyReference.cache
+E:\algorithm design\Assignment_4\a4-manihTWO\a4v2-manih\obj\Debug\a4v2-manih.csproj.CoreCompileInputs.cache
+E:\algorithm design\Assignment_4\a4-manihTWO\a4v2-manih\obj\Debug\a4v2-manih.exe
+E:\algorithm design\Assignment_4\a4-manihTWO\a4v2-manih\obj\Debug\a4v2-manih.pdb
+F:\algorithm design\Assignment_4\a4-manihTWO\a4v2-manih\bin\Debug\a4v2-manih.exe.config
+F:\algorithm design\Assignment_4\a4-manihTWO\a4v2-manih\bin\Debug\a4v2-manih.exe
+F:\algorithm design\Assignment_4\a4-manihTWO\a4v2-manih\bin\Debug\a4v2-manih.pdb
+F:\algorithm design\Assignment_4\a4-manihTWO\a4v2-manih\obj\Debug\a4v2-manih.csprojAssemblyReference.cache
+F:\algorithm design\Assignment_4\a4-manihTWO\a4v2-manih\obj\Debug\a4v2-manih.csproj.CoreCompileInputs.cache
+F:\algorithm design\Assignment_4\a4-manihTWO\a4v2-manih\obj\Debug\a4v2-manih.exe
+F:\algorithm design\Assignment_4\a4-manihTWO\a4v2-manih\obj\Debug\a4v2-manih.pdb

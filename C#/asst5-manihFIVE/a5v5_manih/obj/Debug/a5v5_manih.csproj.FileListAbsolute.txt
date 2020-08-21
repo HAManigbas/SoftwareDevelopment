@@ -1,0 +1,7 @@
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\asst5-manihFIVE\a5v5_manih\bin\Debug\a5v5_manih.exe.config
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\asst5-manihFIVE\a5v5_manih\bin\Debug\a5v5_manih.exe
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\asst5-manihFIVE\a5v5_manih\bin\Debug\a5v5_manih.pdb
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\asst5-manihFIVE\a5v5_manih\obj\Debug\a5v5_manih.csprojAssemblyReference.cache
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\asst5-manihFIVE\a5v5_manih\obj\Debug\a5v5_manih.csproj.CoreCompileInputs.cache
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\asst5-manihFIVE\a5v5_manih\obj\Debug\a5v5_manih.exe
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\asst5-manihFIVE\a5v5_manih\obj\Debug\a5v5_manih.pdb

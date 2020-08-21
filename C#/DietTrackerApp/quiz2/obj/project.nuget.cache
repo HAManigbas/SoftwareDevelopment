@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z8UVPjG2NXk5MjDA0bM34AdJ1mnxVEVpyu0mT6yBAfm+qSNViDVRg/w1dgWn0qsWTBN1FwhLcHb8Uca7fAd4TQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rs188\\Documents\\Hazel\\Portfolio\\C#\\mobileDevelopment\\DietTrackerApp\\quiz2\\quiz2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rs188\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rs188\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\rs188\\.nuget\\packages\\sqlite-net-pcl\\1.6.292\\sqlite-net-pcl.1.6.292.nupkg.sha512",
+    "C:\\Users\\rs188\\.nuget\\packages\\sqlitepclraw.bundle_green\\1.1.13\\sqlitepclraw.bundle_green.1.1.13.nupkg.sha512",
+    "C:\\Users\\rs188\\.nuget\\packages\\sqlitepclraw.core\\1.1.13\\sqlitepclraw.core.1.1.13.nupkg.sha512",
+    "C:\\Users\\rs188\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\rs188\\.nuget\\packages\\xamarin.essentials\\1.1.0\\xamarin.essentials.1.1.0.nupkg.sha512",
+    "C:\\Users\\rs188\\.nuget\\packages\\xamarin.forms\\4.1.0.555618\\xamarin.forms.4.1.0.555618.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\mobileDevelopment\DietTrackerApp\quiz2\bin\Debug\netstandard2.0\quiz2.deps.json
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\mobileDevelopment\DietTrackerApp\quiz2\bin\Debug\netstandard2.0\quiz2.dll
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\mobileDevelopment\DietTrackerApp\quiz2\bin\Debug\netstandard2.0\quiz2.pdb
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\mobileDevelopment\DietTrackerApp\quiz2\obj\Debug\netstandard2.0\quiz2.csprojAssemblyReference.cache
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\mobileDevelopment\DietTrackerApp\quiz2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\mobileDevelopment\DietTrackerApp\quiz2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\mobileDevelopment\DietTrackerApp\quiz2\obj\Debug\netstandard2.0\quiz2.AssemblyInfoInputs.cache
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\mobileDevelopment\DietTrackerApp\quiz2\obj\Debug\netstandard2.0\quiz2.AssemblyInfo.cs
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\mobileDevelopment\DietTrackerApp\quiz2\obj\Debug\netstandard2.0\quiz2.csproj.CoreCompileInputs.cache
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\mobileDevelopment\DietTrackerApp\quiz2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\mobileDevelopment\DietTrackerApp\quiz2\obj\Debug\netstandard2.0\quiz2.dll
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\mobileDevelopment\DietTrackerApp\quiz2\obj\Debug\netstandard2.0\quiz2.pdb

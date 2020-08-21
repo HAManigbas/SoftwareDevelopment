@@ -1,0 +1,14 @@
+E:\algorithm design\Assignment_3\hMANI - a3\hMANI a3v4\bin\Debug\hMANI a3v4.exe.config
+E:\algorithm design\Assignment_3\hMANI - a3\hMANI a3v4\bin\Debug\hMANI a3v4.exe
+E:\algorithm design\Assignment_3\hMANI - a3\hMANI a3v4\bin\Debug\hMANI a3v4.pdb
+E:\algorithm design\Assignment_3\hMANI - a3\hMANI a3v4\obj\Debug\hMANI a3v4.csprojAssemblyReference.cache
+E:\algorithm design\Assignment_3\hMANI - a3\hMANI a3v4\obj\Debug\hMANI a3v4.csproj.CoreCompileInputs.cache
+E:\algorithm design\Assignment_3\hMANI - a3\hMANI a3v4\obj\Debug\hMANI a3v4.exe
+E:\algorithm design\Assignment_3\hMANI - a3\hMANI a3v4\obj\Debug\hMANI a3v4.pdb
+G:\algorithm design\Assignment_3\hMANI - a3\hMANI a3v4\bin\Debug\hMANI a3v4.exe.config
+G:\algorithm design\Assignment_3\hMANI - a3\hMANI a3v4\bin\Debug\hMANI a3v4.exe
+G:\algorithm design\Assignment_3\hMANI - a3\hMANI a3v4\bin\Debug\hMANI a3v4.pdb
+G:\algorithm design\Assignment_3\hMANI - a3\hMANI a3v4\obj\Debug\hMANI a3v4.csprojAssemblyReference.cache
+G:\algorithm design\Assignment_3\hMANI - a3\hMANI a3v4\obj\Debug\hMANI a3v4.csproj.CoreCompileInputs.cache
+G:\algorithm design\Assignment_3\hMANI - a3\hMANI a3v4\obj\Debug\hMANI a3v4.exe
+G:\algorithm design\Assignment_3\hMANI - a3\hMANI a3v4\obj\Debug\hMANI a3v4.pdb

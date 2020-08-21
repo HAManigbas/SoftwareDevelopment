@@ -1,0 +1,21 @@
+E:\algorithm design\hMani a3v5\obj\Debug\hMani a3v5.csprojResolveAssemblyReference.cache
+E:\algorithm design\hMani a3v5\obj\Debug\hMani a3v5.csproj.CoreCompileInputs.cache
+E:\algorithm design\hMani a3v5\bin\Debug\hMani a3v5.exe.config
+E:\algorithm design\hMani a3v5\bin\Debug\hMani a3v5.exe
+E:\algorithm design\hMani a3v5\bin\Debug\hMani a3v5.pdb
+E:\algorithm design\hMani a3v5\obj\Debug\hMani a3v5.exe
+E:\algorithm design\hMani a3v5\obj\Debug\hMani a3v5.pdb
+E:\algorithm design\Assignment_3\hMANI - a3\hMani a3v5\bin\Debug\hMani a3v5.exe.config
+E:\algorithm design\Assignment_3\hMANI - a3\hMani a3v5\bin\Debug\hMani a3v5.exe
+E:\algorithm design\Assignment_3\hMANI - a3\hMani a3v5\bin\Debug\hMani a3v5.pdb
+E:\algorithm design\Assignment_3\hMANI - a3\hMani a3v5\obj\Debug\hMani a3v5.csprojResolveAssemblyReference.cache
+E:\algorithm design\Assignment_3\hMANI - a3\hMani a3v5\obj\Debug\hMani a3v5.csproj.CoreCompileInputs.cache
+E:\algorithm design\Assignment_3\hMANI - a3\hMani a3v5\obj\Debug\hMani a3v5.exe
+E:\algorithm design\Assignment_3\hMANI - a3\hMani a3v5\obj\Debug\hMani a3v5.pdb
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\hMANI - a3\hMani a3v5\bin\Debug\hMani a3v5.exe.config
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\hMANI - a3\hMani a3v5\bin\Debug\hMani a3v5.exe
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\hMANI - a3\hMani a3v5\bin\Debug\hMani a3v5.pdb
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\hMANI - a3\hMani a3v5\obj\Debug\hMani a3v5.csprojAssemblyReference.cache
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\hMANI - a3\hMani a3v5\obj\Debug\hMani a3v5.csproj.CoreCompileInputs.cache
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\hMANI - a3\hMani a3v5\obj\Debug\hMani a3v5.exe
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\hMANI - a3\hMani a3v5\obj\Debug\hMani a3v5.pdb

@@ -1,0 +1,7 @@
+E:\algorithm design\Assignment_3\hMANI - a3\hMani a3v2\bin\Debug\hMani a3v2.exe.config
+E:\algorithm design\Assignment_3\hMANI - a3\hMani a3v2\bin\Debug\hMani a3v2.exe
+E:\algorithm design\Assignment_3\hMANI - a3\hMani a3v2\bin\Debug\hMani a3v2.pdb
+E:\algorithm design\Assignment_3\hMANI - a3\hMani a3v2\obj\Debug\hMani a3v2.csprojAssemblyReference.cache
+E:\algorithm design\Assignment_3\hMANI - a3\hMani a3v2\obj\Debug\hMani a3v2.csproj.CoreCompileInputs.cache
+E:\algorithm design\Assignment_3\hMANI - a3\hMani a3v2\obj\Debug\hMani a3v2.exe
+E:\algorithm design\Assignment_3\hMANI - a3\hMani a3v2\obj\Debug\hMani a3v2.pdb

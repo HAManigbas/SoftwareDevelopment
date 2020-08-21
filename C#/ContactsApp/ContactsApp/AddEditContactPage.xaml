@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="ContactsApp.AddEditContactPage">
+    <ContentPage.Content>
+        <StackLayout Padding="20" Spacing="10">
+            <TableView Intent="Form">
+                <TableRoot>
+                    <TableSection Title="Basic Information">
+                        <EntryCell x:Name="entryFName" Label="First Name" Keyboard="Text"
+                                   Text="{Binding FirstName}"/>
+                        <EntryCell x:Name="entryLName" Label="Last Name" Keyboard="Text"
+                                   Text="{Binding LastName}"/>
+                    </TableSection>
+                    <TableSection Title="Contact Details">
+                        <EntryCell x:Name="entryPhone" Label="Phone" Keyboard="Telephone"
+                                   Text="{Binding PhoneNumber}"/>
+                        <EntryCell x:Name="entryEmail" Label="Email" Keyboard="Email"
+                                   Text="{Binding Email}"/>
+                    </TableSection>
+                    <TableSection Title="Other">
+                        <SwitchCell x:Name="switchBlocked" Text="Blocked"
+                                    On="{Binding IsBlocked}"/>
+                        <ViewCell>
+                            <Button Text="Save" CornerRadius="20" Clicked="SaveButton_Clicked"/>
+                        </ViewCell>
+                    </TableSection>
+                </TableRoot>
+            </TableView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

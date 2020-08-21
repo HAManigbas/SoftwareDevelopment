@@ -1,0 +1,13 @@
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\mobileDevelopment\ContactsApp\ContactsApp\bin\Debug\netstandard2.0\ContactsApp.deps.json
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\mobileDevelopment\ContactsApp\ContactsApp\bin\Debug\netstandard2.0\ContactsApp.dll
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\mobileDevelopment\ContactsApp\ContactsApp\bin\Debug\netstandard2.0\ContactsApp.pdb
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\mobileDevelopment\ContactsApp\ContactsApp\obj\Debug\netstandard2.0\ContactsApp.csprojAssemblyReference.cache
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\mobileDevelopment\ContactsApp\ContactsApp\obj\Debug\netstandard2.0\AddEditContactPage.xaml.g.cs
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\mobileDevelopment\ContactsApp\ContactsApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\mobileDevelopment\ContactsApp\ContactsApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\mobileDevelopment\ContactsApp\ContactsApp\obj\Debug\netstandard2.0\ContactsApp.AssemblyInfoInputs.cache
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\mobileDevelopment\ContactsApp\ContactsApp\obj\Debug\netstandard2.0\ContactsApp.AssemblyInfo.cs
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\mobileDevelopment\ContactsApp\ContactsApp\obj\Debug\netstandard2.0\ContactsApp.csproj.CoreCompileInputs.cache
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\mobileDevelopment\ContactsApp\ContactsApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\mobileDevelopment\ContactsApp\ContactsApp\obj\Debug\netstandard2.0\ContactsApp.dll
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\mobileDevelopment\ContactsApp\ContactsApp\obj\Debug\netstandard2.0\ContactsApp.pdb

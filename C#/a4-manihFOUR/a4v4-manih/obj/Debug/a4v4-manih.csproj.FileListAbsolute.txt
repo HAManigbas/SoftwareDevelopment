@@ -1,0 +1,14 @@
+F:\algorithm design\Assignment_4\a4-manihFOUR\a4v4-manih\bin\Debug\a4v4-manih.exe.config
+F:\algorithm design\Assignment_4\a4-manihFOUR\a4v4-manih\bin\Debug\a4v4-manih.exe
+F:\algorithm design\Assignment_4\a4-manihFOUR\a4v4-manih\bin\Debug\a4v4-manih.pdb
+F:\algorithm design\Assignment_4\a4-manihFOUR\a4v4-manih\obj\Debug\a4v4-manih.csprojAssemblyReference.cache
+F:\algorithm design\Assignment_4\a4-manihFOUR\a4v4-manih\obj\Debug\a4v4-manih.csproj.CoreCompileInputs.cache
+F:\algorithm design\Assignment_4\a4-manihFOUR\a4v4-manih\obj\Debug\a4v4-manih.exe
+F:\algorithm design\Assignment_4\a4-manihFOUR\a4v4-manih\obj\Debug\a4v4-manih.pdb
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\a4-manihFOUR\a4v4-manih\bin\Debug\a4v4-manih.exe.config
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\a4-manihFOUR\a4v4-manih\bin\Debug\a4v4-manih.exe
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\a4-manihFOUR\a4v4-manih\bin\Debug\a4v4-manih.pdb
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\a4-manihFOUR\a4v4-manih\obj\Debug\a4v4-manih.csprojAssemblyReference.cache
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\a4-manihFOUR\a4v4-manih\obj\Debug\a4v4-manih.csproj.CoreCompileInputs.cache
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\a4-manihFOUR\a4v4-manih\obj\Debug\a4v4-manih.exe
+C:\Users\rs188\Documents\Hazel\Portfolio\C#\a4-manihFOUR\a4v4-manih\obj\Debug\a4v4-manih.pdb
